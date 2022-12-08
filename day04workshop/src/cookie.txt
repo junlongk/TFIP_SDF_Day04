@@ -1,0 +1,6 @@
+line1 - Have a nice day!
+line2 - Be thankful!
+line3 - Dont be sad!
+line4 - Be happy!
+line5 - Dont be angry!
+line6 - Be positive!
